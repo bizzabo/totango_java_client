@@ -35,7 +35,7 @@ And lastly send your record
 sdr.send()
 ```
 
-Another usage example:
+Another example of usage:
 ```
 Totango.track(account,user)
       .activity(activity)
