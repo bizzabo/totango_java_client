@@ -1,11 +1,13 @@
 # Totango Java Client
 
 Java Client for sending data to Totango
+
 for more information visit Totango site:
-Server / Backend Integration: http://support.totango.com/hc/en-us/articles/203639605-Server-Backend-Integration-HTTP-
+
+http://support.totango.com/hc/en-us/articles/203639605-Server-Backend-Integration-HTTP-
 
 ## Usage 
-- Initialize Totango client with your service id (One time)
+Initialize Totango client with your service id (One time)
 ```
 Totango.serviceId(serviceId);
 ```
