@@ -2,7 +2,7 @@
 
 Java Client for sending data to Totango
 
-for more information visit Totango site:
+For more information visit Totango site:
 
 http://support.totango.com/hc/en-us/articles/203639605-Server-Backend-Integration-HTTP-
 
