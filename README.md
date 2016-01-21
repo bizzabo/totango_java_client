@@ -2,9 +2,7 @@
 
 Java Client for sending data to Totango
 
-For more information visit Totango site:
-
-http://support.totango.com/hc/en-us/articles/203639605-Server-Backend-Integration-HTTP-
+For more information visit Totango's [site] (http://support.totango.com/hc/en-us/articles/203639605-Server-Backend-Integration-HTTP-)
 
 ## Usage 
 Initialize Totango client with your service id (One time)
@@ -44,3 +42,12 @@ Totango.track(account,user)
       .attribute(key, value)
       .send();
 ```
+## License
+
+Copyright 2016 Bizzabo, Inc.
+
+Licensed under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
