@@ -1,5 +1,8 @@
 # Totango Java Client
-Client to send Totango sdr records 
+
+Java Client for sending data to Totango
+for more information visit Totango site:
+Server / Backend Integration: http://support.totango.com/hc/en-us/articles/203639605-Server-Backend-Integration-HTTP-
 
 ## Usage 
 - Initialize Totango client with your service id (One time)
@@ -25,7 +28,7 @@ Add custom attributes
 ```
 sdr.attribute(key, value);
 ```
-And lastly send the record 
+And lastly send your record 
 ```
 sdr.send()
 ```
