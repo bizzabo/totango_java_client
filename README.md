@@ -34,3 +34,13 @@ And lastly send your record
 ```
 sdr.send()
 ```
+
+Another usage example:
+```
+Totango.track(account,user)
+      .activity(activity)
+      .displayName(displayName)
+      .module(module)
+      .attribute(key, value)
+      .send();
+```
